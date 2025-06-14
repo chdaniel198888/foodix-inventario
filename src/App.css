@@ -1,0 +1,14 @@
+function App() {
+  return (
+    <div className="min-h-screen bg-gray-100 p-4">
+      <h1 className="text-3xl font-bold text-center text-gray-800">
+        Sistema de Inventario Foodix
+      </h1>
+      <p className="text-center mt-4 text-gray-600">
+        ¡Aplicación configurada correctamente! 🎉
+      </p>
+    </div>
+  )
+}
+
+export default App
