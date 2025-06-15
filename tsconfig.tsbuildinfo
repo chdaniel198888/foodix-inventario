@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/listaproductossimple.tsx","./src/config.ts","./src/main.tsx","./src/vite-env.d.ts","./src/vite.config.ts","./src/components/listaproductos.tsx","./src/components/productoconteo.tsx","./src/services/airtable.ts","./src/types/index.ts","./vite.config.ts"],"version":"5.8.3"}
